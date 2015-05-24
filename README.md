@@ -1,6 +1,6 @@
 # clj-time-intersect
 
-A Clojure function to intersect two clj-time periods.
+A Clojure function to intersect two Joda time Intervals
 
 ## Usage
 
